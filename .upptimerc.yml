@@ -10,7 +10,7 @@ sites:
   - name: Vw
     url: https:/vw.shtxt.info
   - name: pl proxy
-    url: http://smartmanDda6f0apgpl.shtxt.info:7890/
+    url: http://pl.shtxt.info:7890/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
