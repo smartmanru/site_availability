@@ -4,19 +4,19 @@
     "url": "https://hh.shtxt.info",
     "icon": "https://icons.duckduckgo.com/ip3/hh.shtxt.info.ico",
     "slug": "home-hh",
-    "status": "down",
-    "uptime": "93.18%",
-    "uptimeDay": "93.18%",
-    "uptimeWeek": "93.18%",
-    "uptimeMonth": "93.18%",
-    "uptimeYear": "93.18%",
-    "time": 1184,
-    "timeDay": 1184,
-    "timeWeek": 1184,
-    "timeMonth": 1184,
-    "timeYear": 1184,
+    "status": "up",
+    "uptime": "91.91%",
+    "uptimeDay": "91.91%",
+    "uptimeWeek": "91.91%",
+    "uptimeMonth": "91.91%",
+    "uptimeYear": "91.91%",
+    "time": 1201,
+    "timeDay": 1201,
+    "timeWeek": 1201,
+    "timeMonth": 1201,
+    "timeYear": 1201,
     "dailyMinutesDown": {
-      "2023-10-18": 66
+      "2023-10-18": 80
     }
   },
   {
@@ -25,44 +25,42 @@
     "icon": "https://icons.duckduckgo.com/ip3/shtxt.keenetic.pro.ico",
     "slug": "router",
     "status": "up",
-    "uptime": "98.52%",
-    "uptimeDay": "98.52%",
-    "uptimeWeek": "98.52%",
-    "uptimeMonth": "98.52%",
-    "uptimeYear": "98.52%",
-    "time": 979,
-    "timeDay": 979,
-    "timeWeek": 979,
-    "timeMonth": 979,
-    "timeYear": 979,
-    "dailyMinutesDown": {
-      "2023-10-18": 14
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1014,
+    "timeDay": 1014,
+    "timeWeek": 1014,
+    "timeMonth": 1014,
+    "timeYear": 1014,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Vw",
     "url": "https:/vw.shtxt.info",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "vw",
-    "status": "down",
-    "uptime": "93.24%",
-    "uptimeDay": "93.24%",
-    "uptimeWeek": "93.24%",
-    "uptimeMonth": "93.24%",
-    "uptimeYear": "93.24%",
-    "time": 1153,
-    "timeDay": 1153,
-    "timeWeek": 1153,
-    "timeMonth": 1153,
-    "timeYear": 1153,
+    "status": "up",
+    "uptime": "91.95%",
+    "uptimeDay": "91.95%",
+    "uptimeWeek": "91.95%",
+    "uptimeMonth": "91.95%",
+    "uptimeYear": "91.95%",
+    "time": 1198,
+    "timeDay": 1198,
+    "timeWeek": 1198,
+    "timeMonth": 1198,
+    "timeYear": 1198,
     "dailyMinutesDown": {
-      "2023-10-18": 66
+      "2023-10-18": 79
     }
   },
   {
     "name": "pl proxy",
-    "url": "http://pl.shtxt.info:7890/",
-    "icon": "https://icons.duckduckgo.com/ip3/pl.shtxt.info.ico",
+    "url": "http://pl.sshtxt.info:7890/",
+    "icon": "https://icons.duckduckgo.com/ip3/pl.sshtxt.info.ico",
     "slug": "pl-proxy",
     "status": "down",
     "uptime": "0.00%",
@@ -76,7 +74,7 @@
     "timeMonth": 337,
     "timeYear": 337,
     "dailyMinutesDown": {
-      "2023-10-18": 862,
+      "2023-10-18": 876,
       "2023-10-17": 111
     }
   }
