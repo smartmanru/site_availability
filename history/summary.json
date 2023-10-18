@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/hh.shtxt.info.ico",
     "slug": "home-hh",
     "status": "down",
-    "uptime": "94.53%",
-    "uptimeDay": "94.53%",
-    "uptimeWeek": "94.53%",
-    "uptimeMonth": "94.53%",
-    "uptimeYear": "94.53%",
+    "uptime": "93.18%",
+    "uptimeDay": "93.18%",
+    "uptimeWeek": "93.18%",
+    "uptimeMonth": "93.18%",
+    "uptimeYear": "93.18%",
     "time": 1184,
     "timeDay": 1184,
     "timeWeek": 1184,
     "timeMonth": 1184,
     "timeYear": 1184,
     "dailyMinutesDown": {
-      "2023-10-18": 52
+      "2023-10-18": 66
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://shtxt.keenetic.pro:4444",
     "icon": "https://icons.duckduckgo.com/ip3/shtxt.keenetic.pro.ico",
     "slug": "router",
-    "status": "down",
-    "uptime": "99.94%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.94%",
-    "time": 951,
-    "timeDay": 951,
-    "timeWeek": 951,
-    "timeMonth": 951,
-    "timeYear": 951,
+    "status": "up",
+    "uptime": "98.52%",
+    "uptimeDay": "98.52%",
+    "uptimeWeek": "98.52%",
+    "uptimeMonth": "98.52%",
+    "uptimeYear": "98.52%",
+    "time": 979,
+    "timeDay": 979,
+    "timeWeek": 979,
+    "timeMonth": 979,
+    "timeYear": 979,
     "dailyMinutesDown": {
-      "2023-10-18": 1
+      "2023-10-18": 14
     }
   },
   {
@@ -45,18 +45,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "vw",
     "status": "down",
-    "uptime": "94.59%",
-    "uptimeDay": "94.59%",
-    "uptimeWeek": "94.59%",
-    "uptimeMonth": "94.59%",
-    "uptimeYear": "94.59%",
+    "uptime": "93.24%",
+    "uptimeDay": "93.24%",
+    "uptimeWeek": "93.24%",
+    "uptimeMonth": "93.24%",
+    "uptimeYear": "93.24%",
     "time": 1153,
     "timeDay": 1153,
     "timeWeek": 1153,
     "timeMonth": 1153,
     "timeYear": 1153,
     "dailyMinutesDown": {
-      "2023-10-18": 52
+      "2023-10-18": 66
     }
   },
   {
@@ -76,7 +76,7 @@
     "timeMonth": 337,
     "timeYear": 337,
     "dailyMinutesDown": {
-      "2023-10-18": 848,
+      "2023-10-18": 862,
       "2023-10-17": 111
     }
   }
