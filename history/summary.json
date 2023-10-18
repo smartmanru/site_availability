@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/hh.shtxt.info.ico",
     "slug": "home-hh",
     "status": "up",
-    "uptime": "94.58%",
+    "uptime": "94.66%",
     "uptimeDay": "94.45%",
-    "uptimeWeek": "94.58%",
-    "uptimeMonth": "94.58%",
-    "uptimeYear": "94.58%",
-    "time": 1200,
-    "timeDay": 1272,
-    "timeWeek": 1200,
-    "timeMonth": 1200,
-    "timeYear": 1200,
+    "uptimeWeek": "94.66%",
+    "uptimeMonth": "94.66%",
+    "uptimeYear": "94.66%",
+    "time": 1208,
+    "timeDay": 1266,
+    "timeWeek": 1208,
+    "timeMonth": 1208,
+    "timeYear": 1208,
     "dailyMinutesDown": {
       "2023-10-18": 80
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 998,
-    "timeDay": 1048,
-    "timeWeek": 998,
-    "timeMonth": 998,
-    "timeYear": 998,
+    "time": 983,
+    "timeDay": 1017,
+    "timeWeek": 983,
+    "timeMonth": 983,
+    "timeYear": 983,
     "dailyMinutesDown": {}
   },
   {
@@ -43,16 +43,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "vw",
     "status": "up",
-    "uptime": "94.61%",
+    "uptime": "94.69%",
     "uptimeDay": "94.48%",
-    "uptimeWeek": "94.61%",
-    "uptimeMonth": "94.61%",
-    "uptimeYear": "94.61%",
-    "time": 1177,
-    "timeDay": 1234,
-    "timeWeek": 1177,
-    "timeMonth": 1177,
-    "timeYear": 1177,
+    "uptimeWeek": "94.69%",
+    "uptimeMonth": "94.69%",
+    "uptimeYear": "94.69%",
+    "time": 1165,
+    "timeDay": 1202,
+    "timeWeek": 1165,
+    "timeMonth": 1165,
+    "timeYear": 1165,
     "dailyMinutesDown": {
       "2023-10-18": 79
     }
@@ -74,7 +74,7 @@
     "timeMonth": 337,
     "timeYear": 337,
     "dailyMinutesDown": {
-      "2023-10-18": 1363,
+      "2023-10-18": 1384,
       "2023-10-17": 111
     }
   }
