@@ -4,7 +4,7 @@ repo: site_availability # The name of this repository
 
 sites:
   - name: home_hh
-    url: https://$HH
+    url: https://
   - name: router
     url: https://$ROUTER
   - name: Vw
