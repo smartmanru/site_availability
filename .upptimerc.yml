@@ -6,13 +6,13 @@ rout: $ROUTER
 plprox: $PL_PROXY
 sites:
   - name: home_hh
-    url: https://$hh
+    url: https://$HH
   - name: router
-    url: https://$rout
+    url: https://$ROUTER
   - name: Vw
     url: https:/$VW
   - name: pl proxy
-    url: http://$plprox
+    url: http://$PL_RROXY
     port: 7890
     check: "tcp-ping"
 
