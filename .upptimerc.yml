@@ -1,16 +1,18 @@
 # Change these first
 owner: smartmanru # Your GitHub organization or username, where this repository lives
 repo: site_availability # The name of this repository
-
+hh: $HH
+rout: $ROUTER
+plprox: $PL_PROXY
 sites:
   - name: home_hh
-    url: https://
+    url: https://$hh
   - name: router
-    url: https://$ROUTER
+    url: https://$rout
   - name: Vw
     url: https:/$VW
   - name: pl proxy
-    url: http://$PL_PROXY
+    url: http://$plprox
     port: 7890
     check: "tcp-ping"
 
