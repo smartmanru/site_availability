@@ -4,13 +4,15 @@ repo: site_availability # The name of this repository
 
 sites:
   - name: home_hh
-    url: https://hh.shtxt.info
+    url: https://$HH
   - name: router
-    url: https://shtxt.keenetic.pro:4444
+    url: https://$ROUTER
   - name: Vw
-    url: https:/vw.shtxt.info
+    url: https:/$VW
   - name: pl proxy
-    url: http://pl.sshtxt.info:7890/
+    url: http://$PL_PROXY
+    port: 7890
+    check: "tcp-ping"
 
 status-website:
   # theme: default
