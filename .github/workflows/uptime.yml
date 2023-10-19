@@ -31,7 +31,3 @@ jobs:
         env:
           GH_PAT: ${{ secrets.GH_PAT || github.token }}
           SECRETS_CONTEXT: ${{ toJson(secrets) }}
-          HH: ${{ secrets.HH }}
-          ROUTER: ${{ secrets.ROUTER }}
-          VW: ${{ secrets.VW }}
-          PL_PROXY: ${{ secrets.PL_PROXY }}
