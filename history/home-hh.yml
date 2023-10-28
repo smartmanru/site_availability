@@ -1,7 +1,7 @@
 url: https://$HH
-status: up
-code: 200
-responseTime: 807
-lastUpdated: 2023-10-27T23:10:57.471Z
+status: down
+code: 502
+responseTime: 804
+lastUpdated: 2023-10-28T22:45:18.686Z
 startTime: 2023-10-17T22:08:38.538Z
 generator: Upptime <https://github.com/upptime/upptime>
