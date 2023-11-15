@@ -1,7 +1,7 @@
 url: http://$SHORT
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-11-15T04:01:36.338Z
+status: up
+code: 200
+responseTime: 22871
+lastUpdated: 2023-11-15T04:28:26.523Z
 startTime: 2023-11-03T08:56:58.362Z
 generator: Upptime <https://github.com/upptime/upptime>
