@@ -14,9 +14,9 @@ sites:
   - name: ShortLink
     url: http://$SHORT
   - name: ruvpn
-    url: https://$ruvpn
+    url: https://$RUVPN
   - name: euvpn
-    url: https://$euvpn
+    url: https://$EUVPN
   
 
 status-website:
