@@ -13,7 +13,10 @@ sites:
     url: https:/$VW
   - name: ShortLink
     url: http://$SHORT
-
+  - name: ruvpn
+    url: https://$ruvpn
+  - name: euvpn
+    url: https://$euvpn
   
 
 status-website:
